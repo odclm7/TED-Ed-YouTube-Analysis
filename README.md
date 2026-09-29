@@ -3,7 +3,7 @@
 An age-adjusted outlier analysis of 93 long-form TED-Ed videos, built to identify which
 topics and title structures earn views beyond what's typical for a video of that age.
 
-**[View the interactive dashboard →](#)** *(replace with a link once you publish/share the sheet)*
+**[View the sample interactive dashboard →](https://docs.google.com/spreadsheets/d/1eDVFxWVHSPVqVNrYMklhrTqkPeLRvvajPun5At5r50w/edit?usp=sharing)**
 
 ## Why age-adjusted?
 
